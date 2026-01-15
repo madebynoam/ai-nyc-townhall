@@ -33,7 +33,7 @@ Hey everyone, I'm Noam from the A4A design team, and I'm here with Natalia Vidal
 **Every day:**
 Workshop → Practice time
 
-Space to form new skills into flow.
+Space to form new skills into&nbsp;flow.
 
 Conversations at lunch. Late-night chats. Learning&nbsp;together.
 
@@ -63,7 +63,7 @@ This was different. Two weeks. Every day: learn something in the morning, practi
 
 ---
 
-# My Journey
+# Noam's Journey
 
 **Day 1:** "Am I behind? Am I doing this right?"
 
@@ -139,7 +139,7 @@ It's AI as a capture tool. Quick input, refined output, ready for future me.
 
 ---
 
-# My Realization
+# Noam's Realization
 
 **Before:** Figma → Handoff → "It doesn't work that way in production"
 
