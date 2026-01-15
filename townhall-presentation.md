@@ -21,7 +21,7 @@ style: |
 January 2026 | NYC
 
 <!--
-Hey everyone, I'm Noam from the A4A design team, and I'm here with Natalia Vidal from Day 1. We just spent two weeks at the AI Enablement Workshop in NYC, and we want to share what that experience was like — and what it means for all of us. I'll share my perspective as a designer first, then hand it over to Natalia for the dev perspective.
+Hey everyone, I'm Noam from the A4A design team, and I'm here with Natalia Vidal from Day One. We just spent two weeks at the AI Enablement Workshop in NYC, and we want to share what that experience was like — and what it means for all of us. I'll share my perspective as a designer first, then hand it over to Natalia for the dev perspective.
 -->
 
 ---
