@@ -63,7 +63,7 @@ This was different. Two weeks. Every day: learn something in the morning, practi
 
 ---
 
-# Noam's Journey
+# My Journey
 
 **Day 1:** "Am I behind? Am I doing this right?"
 
@@ -82,7 +82,7 @@ By day six, I noticed something different. I wasn't thinking about whether to us
 
 ---
 
-# Noam's Example: Dynamic Copy
+# Example: Dynamic Copy
 
 **Before:** Generic CTA for all users
 ```
@@ -114,7 +114,7 @@ The AI helped me think through the jobs-to-be-done framing and write the code. I
 
 ---
 
-# Noam's Example: Claude Code + Day One
+# Example: Claude Code + Day One
 
 **Input** (quick capture):
 ```
@@ -139,7 +139,7 @@ It's AI as a capture tool. Quick input, refined output, ready for future me.
 
 ---
 
-# Noam's Realization
+# My Realization
 
 **Before:** Figma → Handoff → "It doesn't work that way in production"
 
