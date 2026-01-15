@@ -145,8 +145,8 @@ It's AI as a capture tool. Quick input, refined output, ready for future me.
 
 **Now:** Prototype in the codebase → PR → Iterate together
 
-No more handoff bugs.
-**Designer and developer collaborating on the real thing.**
+The more you integrate context, the more possibilities open up.
+**This is just one example.**
 
 Product + Design + Dev = **Full Stack Designer**
 
