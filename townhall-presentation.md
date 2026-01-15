@@ -33,7 +33,7 @@ Hey everyone, I'm Noam from the A4A design team, and I'm here with Natalia Vidal
 **Every day:**
 Workshop → Practice time
 
-Space to form new skills into&nbsp;flow.
+Space to form new skills&nbsp;into&nbsp;flow.
 
 Conversations at lunch. Late-night chats. Learning&nbsp;together.
 
