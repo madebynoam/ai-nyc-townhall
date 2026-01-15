@@ -216,6 +216,32 @@ Now let me hand it over to Natalia to share her perspective as a developer.
 
 ---
 
+# The Possibilities
+
+What excites us most:
+
+- **Parse feedback** from Zendesk, Linear, Slack → then execute
+- AI as a **second reaching hand** — commands, skills, context
+- The process: **Integrate tools → Build context → Brainstorm → Execute**
+
+Instead of manually checking Slack, run a command — get a summary while you do other things.
+
+<!--
+So what are we excited to try going forward?
+
+Full stack workflows. Use AI to parse feedback from Zendesk, Linear, Slack — understand what customers are actually saying. Then execute on that feedback directly.
+
+AI becomes a second reaching hand. We have commands and skills ready to go.
+
+Here's a simple example: instead of manually checking Slack every morning, you can run a command that gathers messages from your channels and gives you a summary with actionables. AI does the gathering while you do other things.
+
+The key insight: it's all about context. Not copy-paste context — integrated context. Tools that read the codebase and build understanding.
+
+The process is: integrate your tools, build context, brainstorm and plan, then execute. Make it subconscious through repetition. That's when AI becomes a natural extension of yourself.
+-->
+
+---
+
 # The Investment
 
 ![bg left:40%](images/IMG_2681.jpeg)
