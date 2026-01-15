@@ -1,0 +1,9 @@
+# Compiled outputs (regenerate with marp)
+*.html
+*.pdf
+
+# macOS
+.DS_Store
+
+# Node
+node_modules/
