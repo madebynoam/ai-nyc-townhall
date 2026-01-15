@@ -259,6 +259,8 @@ Automattic is getting ahead by being **close and native** to today's tools.
 **The question isn't if — it's when.**
 
 <!--
+[NATALIA SPEAKS THIS SLIDE]
+
 We want to end with something Eric Binnion said during the workshop. He said: "I'm the most energized I've been in years."
 
 And honestly? That was the vibe in the room. This collective sense of possibility.
