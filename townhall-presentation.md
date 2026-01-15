@@ -227,6 +227,8 @@ What excites us most:
 Instead of manually checking Slack, run a command — get a summary while you do other things.
 
 <!--
+[NOAM SPEAKS THIS SLIDE]
+
 So what are we excited to try going forward?
 
 Full stack workflows. Use AI to parse feedback from Zendesk, Linear, Slack — understand what customers are actually saying. Then execute on that feedback directly.
