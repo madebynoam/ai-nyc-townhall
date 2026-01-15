@@ -49,20 +49,16 @@ And honestly, some of the best learning happened outside the sessions. Conversat
 
 # Our Journeys
 
-Most workshops: learn something → go home → maybe apply it → back to routine.
+Most workshops: learn something → go home → maybe apply it → back to&nbsp;routine.
 
-This workshop: learn → **practice** → apply → repeat for two weeks.
+This workshop: learn → **practice** → apply → repeat for two&nbsp;weeks.
 
-**Time to build muscle memory. Not just concepts — habits.**
-
-A designer and a developer. Same experience. Different perspectives.
+**Time to build muscle memory. Not just concepts —&nbsp;habits.**
 
 <!--
 Most workshops, you learn something new, go home excited, and then... life happens. You're back to your routine. Maybe you apply one or two things, but most of it fades.
 
 This was different. Two weeks. Every day: learn something in the morning, practice it in the afternoon. Apply it to real work. Repeat. By the end, it wasn't just knowledge — it was muscle memory. Habits.
-
-We want to share our individual journeys — what we came in thinking, what clicked, and what changed. Same experience, but different perspectives: design and dev.
 -->
 
 ---
