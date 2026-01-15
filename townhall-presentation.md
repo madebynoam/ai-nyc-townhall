@@ -217,7 +217,7 @@ Now let me hand it over to Natalia to share her perspective as a developer.
 
 ![bg left:40%](images/IMG_2681.jpeg)
 
-> "I'm the most energized I've been in years." — Eric
+> "I'm the most energized I've been in years." — Eric Binnion
 
 Two weeks to learn, practice, and synthesize.
 
@@ -228,7 +228,7 @@ Automattic is getting ahead by being **close and native** to today's tools.
 **The question isn't if — it's when.**
 
 <!--
-We want to end with something Eric said during the workshop. He said: "I'm the most energized I've been in years."
+We want to end with something Eric Binnion said during the workshop. He said: "I'm the most energized I've been in years."
 
 And honestly? That was the vibe in the room. This collective sense of possibility.
 
