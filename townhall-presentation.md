@@ -105,9 +105,9 @@ Here's a concrete example from the workshop.
 
 I had a card in A4A with a generic call-to-action: "Explore Tiers and benefits." Same button for everyone.
 
-Here's what's interesting: the AI suggested making it dynamic because it could see the tier information was already available in the code. It had context I wouldn't have had in Figma. It knew what data existed and how it could be used.
+I was working with AI in the codebase, and it suggested making the copy dynamic. Why? Because it could see the tier information was already available in the code — context I wouldn't have had in Figma.
 
-Through that conversation, I realized we could show different copy based on where the agency is in their journey. "Start growing" for new partners. "Unlock more" for those ready to level up. "View my benefits" for premier partners who've already made it.
+That led to different copy based on where the agency is in their journey. "Start growing" for new partners. "Unlock more" for those ready to level up. "View my benefits" for premier partners who've already made it.
 
 The AI helped me think through the jobs-to-be-done framing and write the code. I made a PR — it's in review now. A small example, but it shows how working in the codebase with AI opens up possibilities you wouldn't see in a design tool.
 -->
