@@ -15,30 +15,13 @@ style: |
 # AI Enablement Workshop
 ## Our Journey to AI-First
 
-**Noam Almosnino & Natalia Vidal**
+**Noam Almosnino** — Lead Designer, Automattic for Agencies
+**Natalia Vidal** — Griffin Team Lead, Day One (Web+Server)
+
 January 2026 | NYC
 
 <!--
-Hey everyone, I'm Noam from the A4A design team, and I'm here with Natalia Vidal. We just spent two weeks at the AI Enablement Workshop in NYC, and we want to share what that experience was like — and what it means for all of us. I'll go first, then Natalia will share her perspective.
--->
-
----
-
-# The Journey
-
-**Day 1:** "Am I behind? Am I doing this right?"
-
-**Day 6:** Reaching for AI tools naturally — muscle memory kicking in
-
-> The unknown creates doubt. But we were all learning together.
-> That's when I realized: I got this.
-
-<!--
-Day one, I walked in with imposter syndrome. You know that feeling — "Am I behind? Is everyone else further along than me?"
-
-But then I started talking to people. At lunch, during breaks, in the hotel lobby. And I realized — we were all in the same place. Everyone was learning. That's when something clicked: I got this.
-
-By day six, I noticed something different. I wasn't thinking about whether to use AI anymore. I was just... reaching for it. Like muscle memory. Commands like /learned to capture insights, /smart-commit for git. It became natural — which is exactly what I hoped for when I wrote my day-one intention.
+Hey everyone, I'm Noam from the A4A design team, and I'm here with Natalia Vidal from Day 1. We just spent two weeks at the AI Enablement Workshop in NYC, and we want to share what that experience was like — and what it means for all of us. I'll share my perspective as a designer first, then hand it over to Natalia for the dev perspective.
 -->
 
 ---
@@ -64,32 +47,46 @@ And honestly, some of the best learning happened outside the sessions. Conversat
 
 ---
 
-# Full Team in One Person
+# Our Journeys
 
-- Parse the codebase, understand where things fit
-- AI understands the rules and formatting
-- Build new features **single-handedly**
+Most workshops: learn something → go home → maybe apply it → back to routine.
 
-Instead of persuading devs to build what I want...
-**I can collaborate on the actual PR.**
+This workshop: learn → **practice** → apply → repeat for two weeks.
 
-Product + Design + Dev = **Full Stack Designer**
+**Time to build muscle memory. Not just concepts — habits.**
+
+A designer and a developer. Same experience. Different perspectives.
 
 <!--
-Here's what changed for me as a designer.
+Most workshops, you learn something new, go home excited, and then... life happens. You're back to your routine. Maybe you apply one or two things, but most of it fades.
 
-I can now parse a codebase. I can understand where things fit, have AI learn the rules and formatting of a project. And then I can build features — single-handedly.
+This was different. Two weeks. Every day: learn something in the morning, practice it in the afternoon. Apply it to real work. Repeat. By the end, it wasn't just knowledge — it was muscle memory. Habits.
 
-Think about that. Before, if I wanted something built, I'd create a design, post it to P2, and wait. Hope a developer picks it up. Try to persuade them my idea is worth their time.
-
-Now? I can make a PR myself. I can collaborate with the developer on the actual code — not on a picture of what I want.
-
-With tools like context-a8c, I can even pull in product context. Suddenly I'm not just a designer. I'm product, design, AND dev. A full-stack individual contributor.
+We want to share our individual journeys — what we came in thinking, what clicked, and what changed. Same experience, but different perspectives: design and dev.
 -->
 
 ---
 
-# Real Example: Dynamic Copy
+# Noam's Journey
+
+**Day 1:** "Am I behind? Am I doing this right?"
+
+**Day 6:** Reaching for AI tools naturally — muscle memory kicking in
+
+> The unknown creates doubt. But we were all learning together.
+> That's when I realized: I got this.
+
+<!--
+Day one, I walked in with imposter syndrome. You know that feeling — "Am I behind? Is everyone else further along than me?"
+
+But then I started talking to people. At lunch, during breaks, in the hotel lobby. And I realized — we were all in the same place. Everyone was learning. That's when something clicked: I got this.
+
+By day six, I noticed something different. I wasn't thinking about whether to use AI anymore. I was just... reaching for it. Like muscle memory. Commands like /learned to capture insights, /smart-commit for git. It became natural — which is exactly what I hoped for when I wrote my day-one intention.
+-->
+
+---
+
+# Noam's Example: Dynamic Copy
 
 **Before:** Generic CTA for all users
 ```
@@ -118,7 +115,7 @@ The AI helped me think through the jobs-to-be-done framing and write the code. I
 
 ---
 
-# Real Example: Claude Code + Day One
+# Noam's Example: Claude Code + Day One
 
 **Input** (quick capture):
 ```
@@ -143,7 +140,7 @@ It's AI as a capture tool. Quick input, refined output, ready for future me.
 
 ---
 
-# The New Source of Truth
+# Noam's Realization
 
 **Before:** Figma → Handoff → "It doesn't work that way in production"
 
@@ -152,44 +149,66 @@ It's AI as a capture tool. Quick input, refined output, ready for future me.
 No more handoff bugs.
 **Designer and developer collaborating on the real thing.**
 
+Product + Design + Dev = **Full Stack Designer**
+
 <!--
-This is the shift that excites me most.
+Here's what really changed for me.
 
 We used to work like this: design in Figma, hand it off, cross our fingers. Then hear back: "It doesn't work that way in production."
 
-Now collaboration happens on the source of truth — the codebase itself. I prototype in real code. I make a PR. Engineers refine it. I iterate on their work with AI. We're both working on the real thing.
+Now I can collaborate on the source of truth — the codebase itself. I prototype in real code. I make a PR. Engineers refine it. I iterate on their work with AI. We're both working on the real thing.
 
-No more handoff bugs. No more "that's not how it looks in Figma." Just... building together.
+I'm not just a designer anymore. With AI, I can pull in product context, understand the codebase, and ship features. Product, design, AND dev. A full-stack individual contributor.
 
-This is a fundamental process transformation.
+Now let me hand it over to Natalia to share her perspective as a developer.
 -->
 
 ---
 
-# The Possibilities
+# Natalia's Journey
 
-What excites me most:
+<!-- NATALIA PLACEHOLDER -->
 
-- **Parse feedback** from Zendesk, Linear, Slack
-- **Execute** on that feedback with AI
-- AI as a **second reaching hand**
+**[Natalia's day 1 → day 6 experience]**
 
-The process: **Integrate tools → Build context → Brainstorm → Execute**
-
-Instead of manually checking Slack, run a command — get a summary while you do other things.
+- What was your mindset coming in?
+- What clicked for you?
+- What's different now?
 
 <!--
-So what am I eager to try when I get back?
+[Natalia's speaker notes here]
+-->
 
-Full stack workflows. Use AI to parse feedback from Zendesk, Linear, Slack — understand what customers are actually saying. Then execute on that feedback directly.
+---
 
-AI becomes a second reaching hand. I have commands and skills ready to go.
+# Natalia's Example
 
-Here's a simple example: instead of manually checking Slack every morning, I can run a command that gathers messages from my channels and gives me a summary with actionables. AI does the gathering while I do other things.
+<!-- NATALIA PLACEHOLDER -->
 
-The key insight: it's all about context. Not copy-paste context — integrated context. Tools that read the codebase and build understanding.
+**[Natalia's concrete example from the workshop]**
 
-The process is: integrate your tools, build context, brainstorm and plan, then execute. Make it subconscious through repetition.
+- What did you build or ship?
+- How did AI help?
+- What was the before/after?
+
+<!--
+[Natalia's speaker notes here]
+-->
+
+---
+
+# Natalia's Realization
+
+<!-- NATALIA PLACEHOLDER -->
+
+**[What's the big shift for you as a dev?]**
+
+- How has your workflow changed?
+- What's now possible that wasn't before?
+- What does collaboration look like now?
+
+<!--
+[Natalia's speaker notes here]
 -->
 
 ---
@@ -209,13 +228,13 @@ Automattic is getting ahead by being **close and native** to today's tools.
 **The question isn't if — it's when.**
 
 <!--
-I want to end with something Eric said during the workshop. He said: "I'm the most energized I've been in years."
+We want to end with something Eric said during the workshop. He said: "I'm the most energized I've been in years."
 
 And honestly? That was the vibe in the room. This collective sense of possibility.
 
 Getting two weeks to learn, practice, and synthesize with colleagues — through random chats at lunch, late-night conversations in the hotel — is one of the coolest benefits we can get. It's a huge investment in your future self.
 
-I know it's not easy for everyone to do something like this. But if you get the chance — take it.
+We know it's not easy for everyone to do something like this. But if you get the chance — take it.
 
 Because this isn't just about learning new tools. This is a glimpse of the future of how we work. It's a dramatic shift. And Automattic is getting ahead by being close and native to these tools — as James, our Director of AI, put it.
 

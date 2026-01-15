@@ -1,6 +1,8 @@
-# Compiled outputs (regenerate with marp)
-*.html
+# PDF exports (regenerate with marp)
 *.pdf
+
+# Keep HTML for GitHub Pages
+# townhall-presentation.html is tracked
 
 # macOS
 .DS_Store
