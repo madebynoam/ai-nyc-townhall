@@ -35,7 +35,7 @@ Workshop → Practice time
 
 Space to form new skills into flow.
 
-Conversations at lunch. Late-night chats. Learning together.
+Conversations at lunch. Late-night chats. Learning&nbsp;together.
 
 <!--
 This is the NoHo office where we gathered. Every day had the same rhythm: a workshop session in the morning, then practice time in the afternoon.
@@ -170,48 +170,45 @@ Now let me hand it over to Natalia to share her perspective as a developer.
 
 # Natalia's Journey
 
-<!-- NATALIA PLACEHOLDER -->
-
-**[Natalia's day 1 → day 6 experience]**
-
-- What was your mindset coming in?
-- What clicked for you?
-- What's different now?
+**[placeholder]**
 
 <!--
 [Natalia's speaker notes here]
+
+Prompts:
+- What was your mindset coming in?
+- What clicked for you?
+- What's different now?
 -->
 
 ---
 
 # Natalia's Example
 
-<!-- NATALIA PLACEHOLDER -->
-
-**[Natalia's concrete example from the workshop]**
-
-- What did you build or ship?
-- How did AI help?
-- What was the before/after?
+**[placeholder]**
 
 <!--
 [Natalia's speaker notes here]
+
+Prompts:
+- What did you build or ship?
+- How did AI help?
+- What was the before/after?
 -->
 
 ---
 
 # Natalia's Realization
 
-<!-- NATALIA PLACEHOLDER -->
-
-**[What's the big shift for you as a dev?]**
-
-- How has your workflow changed?
-- What's now possible that wasn't before?
-- What does collaboration look like now?
+**[placeholder]**
 
 <!--
 [Natalia's speaker notes here]
+
+Prompts:
+- How has your workflow changed?
+- What's now possible that wasn't before?
+- What does collaboration look like now?
 -->
 
 ---
@@ -223,8 +220,6 @@ What excites us most:
 - **Parse feedback** from Zendesk, Linear, Slack → then execute
 - AI as a **second reaching hand** — commands, skills, context
 - The process: **Integrate tools → Build context → Brainstorm → Execute**
-
-Instead of manually checking Slack, run a command — get a summary while you do other things.
 
 <!--
 [NOAM SPEAKS THIS SLIDE]
