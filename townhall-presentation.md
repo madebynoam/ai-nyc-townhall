@@ -235,6 +235,24 @@ The process is: integrate your tools, build context, brainstorm and plan, then e
 
 ---
 
+# Voices from the Workshop
+
+> "I finally get it — AI isn't replacing me, it's extending me."
+
+> "Day three I stopped thinking about prompts and just started working."
+
+> "The conversations at lunch were as valuable as the sessions."
+
+<!--
+[Speaker notes here]
+
+Prompts:
+- Quotes from participants
+- What did people say about the experience?
+-->
+
+---
+
 # The Investment
 
 ![bg left:40%](images/IMG_2681.jpeg)
