@@ -259,6 +259,41 @@ The process is: integrate your tools, build context, brainstorm and plan, then e
 
 ---
 
+# Key Principles
+
+**We are responsible for our code.**
+AI is a tool. You own the output.
+
+**Quality in = Quality out.**
+Better inputs drive better results.
+
+**Verification is non-negotiable.**
+Always review, test, and validate.
+
+**Time spent before coding is more impactful.**
+Planning and understanding beat rushing to write.
+
+**AI as a learning accelerator, not a learning replacement.**
+Use AI to learn faster, not to avoid learning.
+
+<!--
+[NATALIA SPEAKS THIS SLIDE]
+
+These are the core principles that came up again and again during the workshop.
+
+First: we are responsible for our code. AI is a tool that helps us, but we own the output. If something breaks, it's on us — not the AI.
+
+Second: quality in equals quality out. The better your inputs — your prompts, your context, your questions — the better the results you'll get.
+
+Third: verification is non-negotiable. Always review what AI generates. Test it. Validate it. Don't blindly accept code just because AI wrote it.
+
+Fourth: the time spent before coding begins is more impactful. Planning, understanding the problem, thinking through the architecture — that's where the real value is. AI makes execution faster, which means we should invest even more in getting the approach right.
+
+And fifth: AI is a learning accelerator, not a learning replacement. Use it to understand unfamiliar codebases faster, explore patterns, break down complex problems. But don't use it to avoid learning. The goal is to learn faster, not to skip learning entirely.
+-->
+
+---
+
 # Voices from the Workshop
 
 > "I finally get it — AI isn't replacing me, it's extending me."
