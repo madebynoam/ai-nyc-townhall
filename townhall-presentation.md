@@ -166,45 +166,69 @@ Now let me hand it over to Natalia to share her perspective as a developer.
 
 # Natalia's Journey
 
-**[placeholder]**
+**Before:** Ad-hoc AI usage — ask a question, get an answer
+
+**During:** Building repeatable patterns — skills, commands, workflows
+
+**After:** AI helps me learn unfamiliar codebases and break down big projects
+
+> I went from random questions to systematic workflows.
+> That's what made it stick.
 
 <!--
-[Natalia's speaker notes here]
+I came in already using AI — asking it to explain code, generate snippets, help with debugging. But it was ad-hoc. Random questions here and there.
 
-Prompts:
-- What was your mindset coming in?
-- What clicked for you?
-- What's different now?
+The workshop changed that. I started building repeatable patterns. Custom skills. Slash commands. Workflows I could rely on.
+
+Now I use AI to systematically learn unfamiliar codebases. I have it break down big projects into detailed, actionable plans. It's not just answering questions anymore — it's a structured part of how I work.
+
+I went from random questions to systematic workflows. That's what made it stick.
 -->
 
 ---
 
 # Natalia's Example
 
-**[placeholder]**
+**Project:** Cleaning up technical debt in Day One (web + server)
+
+**The problem:** Legacy API patterns — inconsistent, hard to maintain
+
+**AI's role:** Identified existing patterns across the codebase to maintain consistency
+
+**Impact:** Code is now clearer and easier for the team to modify
 
 <!--
-[Natalia's speaker notes here]
+During the workshop, I tackled some technical debt in Day One — specifically, legacy API patterns that had accumulated over time. They were inconsistent and hard to maintain.
 
-Prompts:
-- What did you build or ship?
-- How did AI help?
-- What was the before/after?
+What was interesting: I didn't just ask AI to rewrite the code. I used it to scan the entire codebase and identify existing patterns. That way, when I refactored, I stayed consistent with what the team was already doing elsewhere.
+
+The result? The code is clearer now. Easier for the team to understand and modify going forward. Not a flashy new feature, but this kind of work makes everything else easier.
 -->
 
 ---
 
 # Natalia's Realization
 
-**[placeholder]**
+**Before:** AI writes code → I review it
+
+**Now:** AI helps me think through the problem → We design together
+
+> AI isn't just generating code.
+> It's a thought partner for architectural decisions.
+
+When AI has full codebase context, it can spot patterns I'd miss.
+**That changes the conversation from "write this" to "what should we do here?"**
 
 <!--
-[Natalia's speaker notes here]
+Here's what really shifted for me.
 
-Prompts:
-- How has your workflow changed?
-- What's now possible that wasn't before?
-- What does collaboration look like now?
+I used to think of AI as a code generator. I'd describe what I wanted, it would write code, and I'd review it. Pretty transactional.
+
+Now? AI helps me think through the problem before writing any code. We design together. I'll ask: "How should I approach this?" and AI will pull context from the codebase — patterns we're already using, conventions the team follows.
+
+It's not just generating code. It's a thought partner for architectural decisions.
+
+When AI has the full codebase as context, it catches things I'd miss. That changes the whole dynamic — from "write this for me" to "what should we do here?"
 -->
 
 ---
@@ -249,6 +273,28 @@ The process is: integrate your tools, build context, brainstorm and plan, then e
 Prompts:
 - Quotes from participants
 - What did people say about the experience?
+-->
+
+---
+
+# The Vibe
+
+> "How do we code by hand again, I forgot"
+
+> "Sorry, got sucked in by Claude"
+
+> "Someone should 'Claude edit the Kudos bot' to allow at least 10 kudos per person this month. Amazing two weeks."
+
+> "Typo of the day: 'I'm attending an AI worship'"
+
+<!--
+And here's the vibe. These are real things people said during the two weeks.
+
+The energy was infectious. People got so absorbed in what they were doing, they'd lose track of time. "Sorry, got sucked in by Claude" became a running joke.
+
+Someone suggested we should Claude edit the Kudos bot to allow more kudos because everyone was doing such cool work.
+
+And my favorite: someone had a typo that said "I'm attending an AI worship" instead of "workshop." Honestly? Not that far off.
 -->
 
 ---
